@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Composition_over_inheritence/1.0.0": {
+        "runtime": {
+          "Composition_over_inheritence.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Composition_over_inheritence/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

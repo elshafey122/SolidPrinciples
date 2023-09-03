@@ -1,0 +1,12 @@
+E:\courses\.net\solid principles\Solid_principles\Interface Segregation Principle\bin\Debug\net6.0\Interface Segregation Principle.deps.json
+E:\courses\.net\solid principles\Solid_principles\Interface Segregation Principle\bin\Debug\net6.0\Interface Segregation Principle.dll
+E:\courses\.net\solid principles\Solid_principles\Interface Segregation Principle\bin\Debug\net6.0\Interface Segregation Principle.pdb
+E:\courses\.net\solid principles\Solid_principles\Interface Segregation Principle\obj\Debug\net6.0\Interface Segregation Principle.csproj.AssemblyReference.cache
+E:\courses\.net\solid principles\Solid_principles\Interface Segregation Principle\obj\Debug\net6.0\Interface Segregation Principle.GeneratedMSBuildEditorConfig.editorconfig
+E:\courses\.net\solid principles\Solid_principles\Interface Segregation Principle\obj\Debug\net6.0\Interface Segregation Principle.AssemblyInfoInputs.cache
+E:\courses\.net\solid principles\Solid_principles\Interface Segregation Principle\obj\Debug\net6.0\Interface Segregation Principle.AssemblyInfo.cs
+E:\courses\.net\solid principles\Solid_principles\Interface Segregation Principle\obj\Debug\net6.0\Interface Segregation Principle.csproj.CoreCompileInputs.cache
+E:\courses\.net\solid principles\Solid_principles\Interface Segregation Principle\obj\Debug\net6.0\Interface Segregation Principle.dll
+E:\courses\.net\solid principles\Solid_principles\Interface Segregation Principle\obj\Debug\net6.0\refint\Interface Segregation Principle.dll
+E:\courses\.net\solid principles\Solid_principles\Interface Segregation Principle\obj\Debug\net6.0\Interface Segregation Principle.pdb
+E:\courses\.net\solid principles\Solid_principles\Interface Segregation Principle\obj\Debug\net6.0\ref\Interface Segregation Principle.dll

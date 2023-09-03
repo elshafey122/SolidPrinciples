@@ -1,0 +1,15 @@
+E:\courses\.net\solid principles\Solid_principles\Dependency_Inversion_Principlee\bin\Debug\net6.0\Interface_Segregation_Principle.exe
+E:\courses\.net\solid principles\Solid_principles\Dependency_Inversion_Principlee\bin\Debug\net6.0\Interface_Segregation_Principle.deps.json
+E:\courses\.net\solid principles\Solid_principles\Dependency_Inversion_Principlee\bin\Debug\net6.0\Interface_Segregation_Principle.runtimeconfig.json
+E:\courses\.net\solid principles\Solid_principles\Dependency_Inversion_Principlee\bin\Debug\net6.0\Interface_Segregation_Principle.dll
+E:\courses\.net\solid principles\Solid_principles\Dependency_Inversion_Principlee\bin\Debug\net6.0\Interface_Segregation_Principle.pdb
+E:\courses\.net\solid principles\Solid_principles\Dependency_Inversion_Principlee\obj\Debug\net6.0\Interface_Segregation_Principle.csproj.AssemblyReference.cache
+E:\courses\.net\solid principles\Solid_principles\Dependency_Inversion_Principlee\obj\Debug\net6.0\Interface_Segregation_Principle.GeneratedMSBuildEditorConfig.editorconfig
+E:\courses\.net\solid principles\Solid_principles\Dependency_Inversion_Principlee\obj\Debug\net6.0\Interface_Segregation_Principle.AssemblyInfoInputs.cache
+E:\courses\.net\solid principles\Solid_principles\Dependency_Inversion_Principlee\obj\Debug\net6.0\Interface_Segregation_Principle.AssemblyInfo.cs
+E:\courses\.net\solid principles\Solid_principles\Dependency_Inversion_Principlee\obj\Debug\net6.0\Interface_Segregation_Principle.csproj.CoreCompileInputs.cache
+E:\courses\.net\solid principles\Solid_principles\Dependency_Inversion_Principlee\obj\Debug\net6.0\Interface_Segregation_Principle.dll
+E:\courses\.net\solid principles\Solid_principles\Dependency_Inversion_Principlee\obj\Debug\net6.0\refint\Interface_Segregation_Principle.dll
+E:\courses\.net\solid principles\Solid_principles\Dependency_Inversion_Principlee\obj\Debug\net6.0\Interface_Segregation_Principle.pdb
+E:\courses\.net\solid principles\Solid_principles\Dependency_Inversion_Principlee\obj\Debug\net6.0\Interface_Segregation_Principle.genruntimeconfig.cache
+E:\courses\.net\solid principles\Solid_principles\Dependency_Inversion_Principlee\obj\Debug\net6.0\ref\Interface_Segregation_Principle.dll

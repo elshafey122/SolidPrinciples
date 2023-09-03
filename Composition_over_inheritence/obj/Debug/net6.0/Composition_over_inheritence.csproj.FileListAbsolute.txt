@@ -1,0 +1,15 @@
+E:\courses\.net\solid principles\Solid_principles\Composition_over_inheritence\bin\Debug\net6.0\Composition_over_inheritence.exe
+E:\courses\.net\solid principles\Solid_principles\Composition_over_inheritence\bin\Debug\net6.0\Composition_over_inheritence.deps.json
+E:\courses\.net\solid principles\Solid_principles\Composition_over_inheritence\bin\Debug\net6.0\Composition_over_inheritence.runtimeconfig.json
+E:\courses\.net\solid principles\Solid_principles\Composition_over_inheritence\bin\Debug\net6.0\Composition_over_inheritence.dll
+E:\courses\.net\solid principles\Solid_principles\Composition_over_inheritence\bin\Debug\net6.0\Composition_over_inheritence.pdb
+E:\courses\.net\solid principles\Solid_principles\Composition_over_inheritence\obj\Debug\net6.0\Composition_over_inheritence.csproj.AssemblyReference.cache
+E:\courses\.net\solid principles\Solid_principles\Composition_over_inheritence\obj\Debug\net6.0\Composition_over_inheritence.GeneratedMSBuildEditorConfig.editorconfig
+E:\courses\.net\solid principles\Solid_principles\Composition_over_inheritence\obj\Debug\net6.0\Composition_over_inheritence.AssemblyInfoInputs.cache
+E:\courses\.net\solid principles\Solid_principles\Composition_over_inheritence\obj\Debug\net6.0\Composition_over_inheritence.AssemblyInfo.cs
+E:\courses\.net\solid principles\Solid_principles\Composition_over_inheritence\obj\Debug\net6.0\Composition_over_inheritence.csproj.CoreCompileInputs.cache
+E:\courses\.net\solid principles\Solid_principles\Composition_over_inheritence\obj\Debug\net6.0\Composition_over_inheritence.dll
+E:\courses\.net\solid principles\Solid_principles\Composition_over_inheritence\obj\Debug\net6.0\refint\Composition_over_inheritence.dll
+E:\courses\.net\solid principles\Solid_principles\Composition_over_inheritence\obj\Debug\net6.0\Composition_over_inheritence.pdb
+E:\courses\.net\solid principles\Solid_principles\Composition_over_inheritence\obj\Debug\net6.0\Composition_over_inheritence.genruntimeconfig.cache
+E:\courses\.net\solid principles\Solid_principles\Composition_over_inheritence\obj\Debug\net6.0\ref\Composition_over_inheritence.dll

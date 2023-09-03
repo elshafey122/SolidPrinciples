@@ -1,0 +1,15 @@
+E:\courses\.net\solid principles\Solid_principles\Dependency_Inversion_Principlee\bin\Debug\net6.0\Dependency_Inversion_Principlee.exe
+E:\courses\.net\solid principles\Solid_principles\Dependency_Inversion_Principlee\bin\Debug\net6.0\Dependency_Inversion_Principlee.deps.json
+E:\courses\.net\solid principles\Solid_principles\Dependency_Inversion_Principlee\bin\Debug\net6.0\Dependency_Inversion_Principlee.runtimeconfig.json
+E:\courses\.net\solid principles\Solid_principles\Dependency_Inversion_Principlee\bin\Debug\net6.0\Dependency_Inversion_Principlee.dll
+E:\courses\.net\solid principles\Solid_principles\Dependency_Inversion_Principlee\bin\Debug\net6.0\Dependency_Inversion_Principlee.pdb
+E:\courses\.net\solid principles\Solid_principles\Dependency_Inversion_Principlee\obj\Debug\net6.0\Dependency_Inversion_Principlee.csproj.AssemblyReference.cache
+E:\courses\.net\solid principles\Solid_principles\Dependency_Inversion_Principlee\obj\Debug\net6.0\Dependency_Inversion_Principlee.GeneratedMSBuildEditorConfig.editorconfig
+E:\courses\.net\solid principles\Solid_principles\Dependency_Inversion_Principlee\obj\Debug\net6.0\Dependency_Inversion_Principlee.AssemblyInfoInputs.cache
+E:\courses\.net\solid principles\Solid_principles\Dependency_Inversion_Principlee\obj\Debug\net6.0\Dependency_Inversion_Principlee.AssemblyInfo.cs
+E:\courses\.net\solid principles\Solid_principles\Dependency_Inversion_Principlee\obj\Debug\net6.0\Dependency_Inversion_Principlee.csproj.CoreCompileInputs.cache
+E:\courses\.net\solid principles\Solid_principles\Dependency_Inversion_Principlee\obj\Debug\net6.0\Dependency_Inversion_Principlee.dll
+E:\courses\.net\solid principles\Solid_principles\Dependency_Inversion_Principlee\obj\Debug\net6.0\refint\Dependency_Inversion_Principlee.dll
+E:\courses\.net\solid principles\Solid_principles\Dependency_Inversion_Principlee\obj\Debug\net6.0\Dependency_Inversion_Principlee.pdb
+E:\courses\.net\solid principles\Solid_principles\Dependency_Inversion_Principlee\obj\Debug\net6.0\Dependency_Inversion_Principlee.genruntimeconfig.cache
+E:\courses\.net\solid principles\Solid_principles\Dependency_Inversion_Principlee\obj\Debug\net6.0\ref\Dependency_Inversion_Principlee.dll

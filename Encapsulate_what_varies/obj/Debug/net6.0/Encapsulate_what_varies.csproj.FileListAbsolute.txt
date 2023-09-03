@@ -1,0 +1,15 @@
+E:\courses\.net\solid principles\Solid_principles\Encapsulate_what_varies\bin\Debug\net6.0\Encapsulate_what_varies.exe
+E:\courses\.net\solid principles\Solid_principles\Encapsulate_what_varies\bin\Debug\net6.0\Encapsulate_what_varies.deps.json
+E:\courses\.net\solid principles\Solid_principles\Encapsulate_what_varies\bin\Debug\net6.0\Encapsulate_what_varies.runtimeconfig.json
+E:\courses\.net\solid principles\Solid_principles\Encapsulate_what_varies\bin\Debug\net6.0\Encapsulate_what_varies.dll
+E:\courses\.net\solid principles\Solid_principles\Encapsulate_what_varies\bin\Debug\net6.0\Encapsulate_what_varies.pdb
+E:\courses\.net\solid principles\Solid_principles\Encapsulate_what_varies\obj\Debug\net6.0\Encapsulate_what_varies.csproj.AssemblyReference.cache
+E:\courses\.net\solid principles\Solid_principles\Encapsulate_what_varies\obj\Debug\net6.0\Encapsulate_what_varies.GeneratedMSBuildEditorConfig.editorconfig
+E:\courses\.net\solid principles\Solid_principles\Encapsulate_what_varies\obj\Debug\net6.0\Encapsulate_what_varies.AssemblyInfoInputs.cache
+E:\courses\.net\solid principles\Solid_principles\Encapsulate_what_varies\obj\Debug\net6.0\Encapsulate_what_varies.AssemblyInfo.cs
+E:\courses\.net\solid principles\Solid_principles\Encapsulate_what_varies\obj\Debug\net6.0\Encapsulate_what_varies.csproj.CoreCompileInputs.cache
+E:\courses\.net\solid principles\Solid_principles\Encapsulate_what_varies\obj\Debug\net6.0\Encapsulate_what_varies.dll
+E:\courses\.net\solid principles\Solid_principles\Encapsulate_what_varies\obj\Debug\net6.0\refint\Encapsulate_what_varies.dll
+E:\courses\.net\solid principles\Solid_principles\Encapsulate_what_varies\obj\Debug\net6.0\Encapsulate_what_varies.pdb
+E:\courses\.net\solid principles\Solid_principles\Encapsulate_what_varies\obj\Debug\net6.0\Encapsulate_what_varies.genruntimeconfig.cache
+E:\courses\.net\solid principles\Solid_principles\Encapsulate_what_varies\obj\Debug\net6.0\ref\Encapsulate_what_varies.dll

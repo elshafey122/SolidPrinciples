@@ -1,0 +1,15 @@
+E:\courses\.net\solid principles\Solid_principles\Loose Vs. Tight Coupling\bin\Debug\net6.0\Loose Vs. Tight Coupling.exe
+E:\courses\.net\solid principles\Solid_principles\Loose Vs. Tight Coupling\bin\Debug\net6.0\Loose Vs. Tight Coupling.deps.json
+E:\courses\.net\solid principles\Solid_principles\Loose Vs. Tight Coupling\bin\Debug\net6.0\Loose Vs. Tight Coupling.runtimeconfig.json
+E:\courses\.net\solid principles\Solid_principles\Loose Vs. Tight Coupling\bin\Debug\net6.0\Loose Vs. Tight Coupling.dll
+E:\courses\.net\solid principles\Solid_principles\Loose Vs. Tight Coupling\bin\Debug\net6.0\Loose Vs. Tight Coupling.pdb
+E:\courses\.net\solid principles\Solid_principles\Loose Vs. Tight Coupling\obj\Debug\net6.0\Loose Vs. Tight Coupling.csproj.AssemblyReference.cache
+E:\courses\.net\solid principles\Solid_principles\Loose Vs. Tight Coupling\obj\Debug\net6.0\Loose Vs. Tight Coupling.GeneratedMSBuildEditorConfig.editorconfig
+E:\courses\.net\solid principles\Solid_principles\Loose Vs. Tight Coupling\obj\Debug\net6.0\Loose Vs. Tight Coupling.AssemblyInfoInputs.cache
+E:\courses\.net\solid principles\Solid_principles\Loose Vs. Tight Coupling\obj\Debug\net6.0\Loose Vs. Tight Coupling.AssemblyInfo.cs
+E:\courses\.net\solid principles\Solid_principles\Loose Vs. Tight Coupling\obj\Debug\net6.0\Loose Vs. Tight Coupling.csproj.CoreCompileInputs.cache
+E:\courses\.net\solid principles\Solid_principles\Loose Vs. Tight Coupling\obj\Debug\net6.0\Loose Vs. Tight Coupling.dll
+E:\courses\.net\solid principles\Solid_principles\Loose Vs. Tight Coupling\obj\Debug\net6.0\refint\Loose Vs. Tight Coupling.dll
+E:\courses\.net\solid principles\Solid_principles\Loose Vs. Tight Coupling\obj\Debug\net6.0\Loose Vs. Tight Coupling.pdb
+E:\courses\.net\solid principles\Solid_principles\Loose Vs. Tight Coupling\obj\Debug\net6.0\Loose Vs. Tight Coupling.genruntimeconfig.cache
+E:\courses\.net\solid principles\Solid_principles\Loose Vs. Tight Coupling\obj\Debug\net6.0\ref\Loose Vs. Tight Coupling.dll

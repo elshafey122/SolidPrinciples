@@ -1,0 +1,15 @@
+E:\courses\.net\solid principles\Solid_principles\Open Closed Principle\bin\Debug\net6.0\Open Closed Principle.exe
+E:\courses\.net\solid principles\Solid_principles\Open Closed Principle\bin\Debug\net6.0\Open Closed Principle.deps.json
+E:\courses\.net\solid principles\Solid_principles\Open Closed Principle\bin\Debug\net6.0\Open Closed Principle.runtimeconfig.json
+E:\courses\.net\solid principles\Solid_principles\Open Closed Principle\bin\Debug\net6.0\Open Closed Principle.dll
+E:\courses\.net\solid principles\Solid_principles\Open Closed Principle\bin\Debug\net6.0\Open Closed Principle.pdb
+E:\courses\.net\solid principles\Solid_principles\Open Closed Principle\obj\Debug\net6.0\Open Closed Principle.csproj.AssemblyReference.cache
+E:\courses\.net\solid principles\Solid_principles\Open Closed Principle\obj\Debug\net6.0\Open Closed Principle.GeneratedMSBuildEditorConfig.editorconfig
+E:\courses\.net\solid principles\Solid_principles\Open Closed Principle\obj\Debug\net6.0\Open Closed Principle.AssemblyInfoInputs.cache
+E:\courses\.net\solid principles\Solid_principles\Open Closed Principle\obj\Debug\net6.0\Open Closed Principle.AssemblyInfo.cs
+E:\courses\.net\solid principles\Solid_principles\Open Closed Principle\obj\Debug\net6.0\Open Closed Principle.csproj.CoreCompileInputs.cache
+E:\courses\.net\solid principles\Solid_principles\Open Closed Principle\obj\Debug\net6.0\Open Closed Principle.dll
+E:\courses\.net\solid principles\Solid_principles\Open Closed Principle\obj\Debug\net6.0\refint\Open Closed Principle.dll
+E:\courses\.net\solid principles\Solid_principles\Open Closed Principle\obj\Debug\net6.0\Open Closed Principle.pdb
+E:\courses\.net\solid principles\Solid_principles\Open Closed Principle\obj\Debug\net6.0\Open Closed Principle.genruntimeconfig.cache
+E:\courses\.net\solid principles\Solid_principles\Open Closed Principle\obj\Debug\net6.0\ref\Open Closed Principle.dll

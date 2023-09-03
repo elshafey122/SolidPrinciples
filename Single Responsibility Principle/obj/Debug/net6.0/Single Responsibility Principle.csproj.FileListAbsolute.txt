@@ -1,0 +1,15 @@
+E:\courses\.net\solid principles\Solid_principles\Single Responsibility Principle\bin\Debug\net6.0\Single Responsibility Principle.exe
+E:\courses\.net\solid principles\Solid_principles\Single Responsibility Principle\bin\Debug\net6.0\Single Responsibility Principle.deps.json
+E:\courses\.net\solid principles\Solid_principles\Single Responsibility Principle\bin\Debug\net6.0\Single Responsibility Principle.runtimeconfig.json
+E:\courses\.net\solid principles\Solid_principles\Single Responsibility Principle\bin\Debug\net6.0\Single Responsibility Principle.dll
+E:\courses\.net\solid principles\Solid_principles\Single Responsibility Principle\bin\Debug\net6.0\Single Responsibility Principle.pdb
+E:\courses\.net\solid principles\Solid_principles\Single Responsibility Principle\obj\Debug\net6.0\Single Responsibility Principle.csproj.AssemblyReference.cache
+E:\courses\.net\solid principles\Solid_principles\Single Responsibility Principle\obj\Debug\net6.0\Single Responsibility Principle.GeneratedMSBuildEditorConfig.editorconfig
+E:\courses\.net\solid principles\Solid_principles\Single Responsibility Principle\obj\Debug\net6.0\Single Responsibility Principle.AssemblyInfoInputs.cache
+E:\courses\.net\solid principles\Solid_principles\Single Responsibility Principle\obj\Debug\net6.0\Single Responsibility Principle.AssemblyInfo.cs
+E:\courses\.net\solid principles\Solid_principles\Single Responsibility Principle\obj\Debug\net6.0\Single Responsibility Principle.csproj.CoreCompileInputs.cache
+E:\courses\.net\solid principles\Solid_principles\Single Responsibility Principle\obj\Debug\net6.0\Single Responsibility Principle.dll
+E:\courses\.net\solid principles\Solid_principles\Single Responsibility Principle\obj\Debug\net6.0\refint\Single Responsibility Principle.dll
+E:\courses\.net\solid principles\Solid_principles\Single Responsibility Principle\obj\Debug\net6.0\Single Responsibility Principle.pdb
+E:\courses\.net\solid principles\Solid_principles\Single Responsibility Principle\obj\Debug\net6.0\Single Responsibility Principle.genruntimeconfig.cache
+E:\courses\.net\solid principles\Solid_principles\Single Responsibility Principle\obj\Debug\net6.0\ref\Single Responsibility Principle.dll
